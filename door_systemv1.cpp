@@ -65,4 +65,6 @@ void loop() {
   }
 
   delay(200);
+  // addd hello!
+  Serial.print("Add Hello");
 }
